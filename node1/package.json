@@ -1,0 +1,22 @@
+{
+  "name": "npm_demo",
+  "version": "1.0.0",
+  "description": "learning npm",
+  "main": "bot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "rainy",
+    "day"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/arnabprojects/npm.git"
+  },
+  "author": "arnab sen",
+  "license": "ISC",
+  "dependencies": {
+    "twit": "^2.2.4"
+  }
+}

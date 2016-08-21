@@ -1,0 +1,19 @@
+Node js Documents
+
+1.Node.js = Runtime Environment + JavaScript Library
+
+2.Asynchronous and Event Driven
+
+3.Very Fast
+
+4.Single Threaded but Highly Scalable
+
+5.No Buffering
+
+Requirements on creating first web app >>>> 
+
+1.Import required modules
+
+2.Create server
+
+3.Read request and return response
